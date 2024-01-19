@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQEv3e9_-eJbpA/profile-displaybackgroundimage-shrink_200_800/0/1615283393774?e=2147483647&v=beta&t=kI7KB3pgdRXoeSRkqujcefB1u5ThDOKMqwTfcCUYiFs)
 # Ana-Maria Zaharieva's GitHub Realm 👩‍💻
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQEv3e9_-eJbpA/profile-displaybackgroundimage-shrink_200_800/0/1615283393774?e=2147483647&v=beta&t=kI7KB3pgdRXoeSRkqujcefB1u5ThDOKMqwTfcCUYiFs)
 
 ## Ana-Maria Zaharieva - A Glimpse into My Coding Journey 🚀
 Hello fellow coders! I'm Ana-Maria, a budding QA Engineer honing my skills at SoftUni, Sofia. Let's take a practical stroll through my GitHub repository, where each commit marks a stride in my coding journey.
