@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQEv3e9_-eJbpA/profile-displaybackgroundimage-shrink_200_800/0/1615283393774?e=2147483647&v=beta&t=kI7KB3pgdRXoeSRkqujcefB1u5ThDOKMqwTfcCUYiFs)
 # Ana-Maria Zaharieva's GitHub Realm 👩‍💻
 
 ## Ana-Maria Zaharieva - A Glimpse into My Coding Journey 🚀
@@ -5,6 +6,8 @@ Hello fellow coders! I'm Ana-Maria, a budding QA Engineer honing my skills at So
 
 ## GitHub Overview at a Glance 📊
 ![Ani200208's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Ani200208&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU">
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani200208&layout=compact&theme=radical)
 
